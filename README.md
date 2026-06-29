@@ -1,5 +1,5 @@
 # Sentiment-Analysis-on-Amazon-Reviews
-I used NLP to analyze classify customers reviews into Positive, Negative or Neutral ffeedback on Amazon.
+I used NLP to analyze classify customers reviews into Positive, Negative or Neutral feedback on Amazon Reviews.
 # Amazon Fine Food Reviews Sentiment Analysis Using NLP
 
 ## Project Overview
